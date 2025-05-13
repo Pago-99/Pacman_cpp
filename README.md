@@ -10,6 +10,7 @@ Explanation in Korean is available via:
 * Interface
 * Pacman Handling
 * Ghost Mode Change
+* Ghost Mode Specification
 * Win & Lose Condition
 
 ---
