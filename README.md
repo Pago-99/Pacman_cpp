@@ -1,12 +1,14 @@
 # Pacman_cpp
 This is Pacman written in C++.
+Explanation in Korean is available via:
+[Pacman_Manual.pdf](https://github.com/user-attachments/files/20186591/Pacman_Manual.pdf)
 
 # Pacman Manual
 
 ## Contents
 
 * Interface
-* PACMAN Handling
+* Pacman Handling
 * Ghost Mode Change
 * Win & Lose Condition
 
@@ -18,7 +20,7 @@ This is Pacman written in C++.
 
 * **Screens**: Start Screen, Game Screen, Win Screen, Lose Screen
 * **Maze**: 8 × 10 matrix
-* **Core Elements**: PACMAN, 4 Ghosts, Maze, 2 Types of Dots
+* **Core Elements**: Pacman, 4 Ghosts, Maze, 2 Types of Dots
 * **Additional Features**:
 
   * Ghost Room
@@ -34,14 +36,14 @@ This is Pacman written in C++.
 
 ---
 
-## PACMAN Handling
+## Pacman Handling
 
-* **Movement**: Use the arrow keys (↑ ↓ ← →) to move PACMAN in the corresponding direction.
+* **Movement**: Use the arrow keys (↑ ↓ ← →) to move Pacman in the corresponding direction.
 * **Movement Rules**:
 
-  * PACMAN moves at a constant speed.
-  * If PACMAN encounters a wall, it stops immediately.
-  * While moving between walls, pressing a perpendicular direction key will cause PACMAN to stop (safety feature).
+  * Pacman moves at a constant speed.
+  * If Pacman encounters a wall, it stops immediately.
+  * While moving between walls, pressing a perpendicular direction key will cause Pacman to stop (safety feature).
 
 ---
 
@@ -51,8 +53,9 @@ This is Pacman written in C++.
 
   * **Frightened**
   * **Eaten**
-  * Other states visualized by color.
-* **Chase** and **Scatter** modes are distinguished by logic, not color.
+  * **Chase**
+  * **Scatter**
+  * These states are also visualized by the ghosts' color. **Chase** and **Scatter** are distinguished by logic, not color.
 
 ---
 
@@ -61,13 +64,13 @@ This is Pacman written in C++.
 ### Frightened Mode
 
 * Ghosts slow down.
-* Ghosts move in the opposite direction of PACMAN.
+* Ghosts move in the opposite direction of Pacman.
 * Visualized in **purple**.
 
 ### Ready Mode
 
 * Activated when all Ghosts have been eaten.
-* When PACMAN eats a Ghost, that Ghost respawns in the Ghost Home.
+* When Pacman eats a Ghost, that Ghost respawns in the Ghost Home.
 * After a set time, Ghosts exit the home and re-enter the maze.
 * Visualized in **white**.
 
@@ -89,6 +92,6 @@ This is Pacman written in C++.
 ### Lose Condition
 
 * Game over after losing all 5 lives.
-* Lives decrease when PACMAN is caught by Ghosts in **Chase** or **Scatter** mode.
-* Remaining lives are shown by PACMAN icons at the bottom of the screen.
+* Lives decrease when Pacman is caught by Ghosts in **Chase** or **Scatter** mode.
+* Remaining lives are shown by Pacman icons at the bottom of the screen.
 
