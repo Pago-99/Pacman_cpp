@@ -27,13 +27,6 @@ Explanation in Korean is available via:
   * Scoreboard
   * Timer (seconds)
 
-### Screenshots
-
-1. **Start Screen**
-2. **Game Screen**
-3. **Win Screen**
-4. **Lose Screen**
-
 ---
 
 ## Pacman Handling
