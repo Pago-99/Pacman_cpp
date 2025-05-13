@@ -1,0 +1,45 @@
+﻿  PACMAN.cpp
+C:\Users\JeongheeLee\source\repos\PACMAN\Pacman.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(137,34): warning C4244: 'return': '_Ty1'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(137,34): warning C4244:         with
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(137,34): warning C4244:         [
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(137,34): warning C4244:             _Ty1=float
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(137,34): warning C4244:         ]
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(141,45): warning C4244: 'return': '_Ty2'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(141,45): warning C4244:         with
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(141,45): warning C4244:         [
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(141,45): warning C4244:             _Ty2=float
+C:\Users\JeongheeLee\source\repos\PACMAN\Character.h(141,45): warning C4244:         ]
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Pacman.h(122,28): warning C4244: '인수': 'const int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Pacman.h(129,53): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Pacman.h(128,53): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Pacman.h(148,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Pacman.h(147,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\mazeCoordinate.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\JeongheeLee\source\repos\PACMAN\Ghost.h(150,28): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'PACMAN.cpp'을(를) 컴파일하는 중)
+  
+  PACMAN.vcxproj -> C:\Users\JeongheeLee\source\repos\PACMAN\x64\Debug\PACMAN.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
