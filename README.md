@@ -9,7 +9,7 @@ Explanation in Korean is available via:
 
 * Interface
 * Pacman Handling
-* Ghost Mode Change
+* Ghost Mode Display
 * Ghost Mode Specification
 * Win & Lose Condition
 
@@ -41,7 +41,7 @@ Explanation in Korean is available via:
 
 ---
 
-## Ghost Mode Change
+## Ghost Mode Display
 
 * A mode window displays each Ghost’s current state:
 
